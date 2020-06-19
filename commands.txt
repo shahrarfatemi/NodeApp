@@ -1,0 +1,4 @@
+npm init --yes
+npm install mongoose
+npm install joi
+npm install express
