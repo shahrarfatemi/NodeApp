@@ -1,4 +1,4 @@
-package com.example.nodeapp;
+package com.example.quizzy;
 
 import android.content.Context;
 
